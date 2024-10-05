@@ -24,7 +24,7 @@ The subgraph tracks important events in the Uniswap ecosystem, including:
 
 Below are examples of decentralized applications (DApps) that can be built using this subgraph:
 
-![UniSwap Pool Analyzer](Screenshot 2024-10-05 174619.png)
+[UniSwap Pool Analyzer](Screenshot 2024-10-05 174619.png)
 
 ## Dummy test Website
 You can test here : [Dummy Website]([https://claude.site/artifacts/0a00e17d-12b4-44df-b271-85b5660006f2])
