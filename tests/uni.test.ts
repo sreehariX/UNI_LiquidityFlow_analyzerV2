@@ -9,7 +9,7 @@ import {
 import { Address, BigInt } from "@graphprotocol/graph-ts"
 import { Approval } from "../generated/schema"
 import { Approval as ApprovalEvent } from "../generated/Uni/Uni"
-import { handleApproval } from "../src/uni"
+import { handleApproval } from "../src/mapping"
 import { createApprovalEvent } from "./uni-utils"
 
 // Tests structure (matchstick-as >=0.5.0)
